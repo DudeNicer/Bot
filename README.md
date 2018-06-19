@@ -1,2 +1,2 @@
-# Bot
-Bot 24/7
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
